@@ -114,3 +114,5 @@ ncc build ./src/index.ts
 ```
 Somechange
 somechange pull1
+somechange pull
+
